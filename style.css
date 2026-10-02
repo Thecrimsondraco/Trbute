@@ -1,0 +1,23 @@
+.header {
+	text-align: center;
+	font-size: 70px;
+	font-family: serif
+}
+.header-2 {
+	font-size: 70px;
+}
+.peter-img {
+	width:300px;
+	height:400px;
+	object-fit:cover;
+	border-radius:50%;
+	display: block;
+	margin: 0 auto;
+}
+body {
+	background-color: #DC143C;
+	text
+}
+p {
+	font-size: 28px;
+}
